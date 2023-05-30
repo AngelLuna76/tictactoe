@@ -1,0 +1,22 @@
+.jumbotron {
+  text-align: center;
+  align-content: center;
+}
+button{
+  background-color: #000000;
+  color: #fffafa;
+}
+td {
+  height:150px;
+  width:150px;
+  text-align: center;
+  border: 5px solid #757575;
+  font-size: 100px;
+  background-color:#d6c99a;
+  color:#fafafa;
+}
+
+table {
+  margin: auto auto;
+}
+}
